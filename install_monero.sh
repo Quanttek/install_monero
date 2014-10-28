@@ -5,7 +5,7 @@
 sudo apt-get -y install python-software-properties
 sudo add-apt-repository -y ppa:ubuntu-toolchain-r/test
 sudo apt-get update
-sudo apt-get -y install gcc-4.8 g++-4.8 rlwrap git cmake build-essential
+sudo apt-get -y install gcc-4.8 g++-4.8 rlwrap git cmake build-essential libunbound-dev
 
 cd ~
 clear
