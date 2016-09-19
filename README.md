@@ -1,6 +1,8 @@
 install_monero
 ==============
 
+**This script is currently not maintained. I recommend following the installation guide in the bitmonero repository**
+
 An Monero installation script for Debian-based distros  
   
 ## How to Use  
